@@ -82,4 +82,11 @@ Please open an 'issue' here in GitHub..
 
 This app is open-source.
 ---
+![Screenshot 2025-09-18 at 12 15 42 AM](https://github.com/user-attachments/assets/73203dcc-04e8-4c09-b699-066402bf6572)  
+![Screenshot 2025-09-18 at 12 13 46 AM](https://github.com/user-attachments/assets/f9caa8a7-721f-49d2-b7e8-78fde8c501b8)  
+![Screenshot 2025-09-17 at 11 34 34 PM](https://github.com/user-attachments/assets/381bb638-a694-4758-b3d9-1602ee3454d4)  
+![Screenshot 2025-09-17 at 11 33 28 PM](https://github.com/user-attachments/assets/0b5bc586-5620-43ef-a84d-f89e5cd11b53)  
+![Screenshot 2025-09-17 at 11 29 57 PM](https://github.com/user-attachments/assets/34879c8c-3d28-442e-a40f-5d70c947747b)  
+![Screenshot 2025-09-17 at 11 06 21 PM](https://github.com/user-attachments/assets/53b8e743-8c77-464f-8395-230bf8c6a5e7)  
 
+  

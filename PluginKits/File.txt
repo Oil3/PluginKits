@@ -1,0 +1,6 @@
+app is accessing plugin management at a lower level than the standard System Preferences interface
+he fact that Apple doesn't expose them in System Preferences suggests they consider them either:
+
+Too technical for regular users
+Potentially system-breaking if disabled
+Not intended for user modification

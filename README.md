@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/63790fc2-300b-4a7c-b039-42d37f4e6c1c" height="128">
   <h1 align="center">PluginKits</h1>
    <p align="center">
-Access plugin management at a lower level than standard System Settings.
+Open-source macOS extension management.
 </p>
  
 
@@ -12,12 +12,13 @@ Access plugin management at a lower level than standard System Settings.
  
 
 
-I made the app initially to debug Quick Look extensions, and I noticed that I could disable that 'Warda Synthethizer" with the same API..  
+I made the app initially to debug Quick Look extensions, and I noticed that  we  had a lower level access than standard System Settings gave, allowing, e.g., to disable that 'Warda Synthethizer".   
  
 
  ## Features
 
 ### QuickLook Extension Management
+
 - **Conflict Detection**: Automatically identifies UTI conflicts between competing QuickLook extensions  
 - **Selective Resolution**: Choose which extension handles specific file types when conflicts arise  
 - **Extension Details**: View comprehensive metadata, identifiers, and paths for all extensions  

@@ -1,5 +1,7 @@
-`This readme page is still a drafr-in-progress.`
-[`If you were sent here for a QuickLook issue`](#quicklook)
+`This readme page is still a draft-in-progress.`  
+`If you were sent here for a QuickLook issue`[⇩](#quicklook)    
+<sub>Plugin, plug-in, extension, are used interchangeably to refer to macOS item kind "Application and System Extension" </sub>  
+<sub>UTI, file type, are preferred to refer to filename-extensions. </sub>  
 
    <p align="center">
   <img src="https://github.com/user-attachments/assets/63790fc2-300b-4a7c-b039-42d37f4e6c1c" height="128">

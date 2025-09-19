@@ -1,5 +1,5 @@
 `This readme page is still a drafr-in-progress.`
-`If you were sent here for a QuickLook issue`
+[`If you were sent here for a QuickLook issue`](#quicklook)
 
    <p align="center">
   <img src="https://github.com/user-attachments/assets/63790fc2-300b-4a7c-b039-42d37f4e6c1c" height="128">

@@ -1,4 +1,3 @@
-`This readme page is still a draft-in-progress.`  
 `If you were sent here for a QuickLook issue`[⇩](#quicklook)    
 <sub>Plugin, plug-in, extension, are used interchangeably to refer to macOS item kind "Application and System Extension". </sub>  
 <sub>UTI, file type, are preferred to refer to filename-extensions. </sub>  

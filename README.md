@@ -96,4 +96,6 @@ Basically can swap between the two in one click
 
 
 [^1]: "A Mac is a Mac and it works. In front of a Macbook Retina you feel comfortable[...]" original quote Rocco Gagliardi, Audit in a OSX System https://www.scip.ch/en/?labs.20150108  
-[^2]: "A strict workflow: it deactivates duplicates, deregisters all plugins of this operation, zips/backups in temporary directory then puts in the trash the duplicates, move the kept extension in /Applications and finaly re-egister at the n itctivates the extension.   
+[^2]: A strict workflow: it deactivates duplicates, deregisters all plugins of this operation, zips/backups in temporary directory then puts in the trash the duplicates, move the kept extension in /Applications and finaly re-egister at the n itctivates the extension.    
+[^3]: <h8>Mac and macOS are trademarks of [Apple Inc.](http://www.apple.com/), registered in the U.S. and other countries and regions.</h8> <sub><sup><sub><sup><sub><sup><sub><sup>[^3]</sub></sup></sub></sup></sub></sup></sub></sup>
+

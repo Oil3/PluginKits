@@ -79,14 +79,14 @@ This app is open-source.
 
 ---
 ## QuickLook    
-###F ix plugins version issues:    
+### Fix plugins conflictuing version issues:    
+This specific tool should fix issue when an older version supercedes a new one.  
 In the "Extension Conflicts" tab: the tool automatically keeps the latest version and puts it in /Applications.[^2]  
 You can alternatively manage manually, the important step is deactivating the conflicing versions; the tool goes beyond to ensure it stays like that.   
 The process is virtually instantaneous, and Quick Look should work immediately.
 
-###Fix another extension prevents a different  
-In the "UTI Conflicts" tab:  
-Basically can swap between the two in one click
+### Fix another extension prevents a different  
+This helps manage when you want to keep different extensions that andle the same file-extensions, basically it allows swap between the two in one click.  
 
 ![Screenshot 2025-09-17 at 11 29 57 PM](https://github.com/user-attachments/assets/34879c8c-3d28-442e-a40f-5d70c947747b)  
 ![Screenshot 2025-09-17 at 11 06 21 PM](https://github.com/user-attachments/assets/53b8e743-8c77-464f-8395-230bf8c6a5e7)  

@@ -12,7 +12,7 @@ Open-source macOS extension management.
  
 
 
-Edit Sep25: FYI if you need to register or re-register, a system extension, you can always drag/drop the _.appex _ i n the sidebar's bottom 'UTI informations' box, which for _.appex_ will manually register it.    
+Edit Sep25: FYI if you need to register or re-register, a system extension, you can always drag/drop its .appex in the sidebar's bottom 'UTI informations' box, which for _.appex_ will manually register it.    
  
 
  ## Features

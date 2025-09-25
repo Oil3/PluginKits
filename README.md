@@ -86,7 +86,7 @@ You can alternatively manage manually, the important step is deactivating the co
 The process is virtually instantaneous, and Quick Look should work immediately.
 
 ### Fix another extension prevents a different  
-This helps manage when you want to keep different extensions that andle the same file-extensions, basically it allows swap between the two in one click.  
+This helps manage when you want to keep different extensions that handle the same file-extensions, basically it allows swap between the two in one click.  
 
 ![Screenshot 2025-09-17 at 11 29 57 PM](https://github.com/user-attachments/assets/34879c8c-3d28-442e-a40f-5d70c947747b)  
 ![Screenshot 2025-09-17 at 11 06 21 PM](https://github.com/user-attachments/assets/53b8e743-8c77-464f-8395-230bf8c6a5e7)  

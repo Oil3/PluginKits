@@ -12,7 +12,7 @@ Open-source macOS extension management.
  
 
 
-I made the app initially to debug Quick Look extensions, and I noticed that  we  had a lower level access than standard System Settings gave, allowing, e.g., to disable that 'Warda Synthethizer".   
+Edit Sep25: FYI if you need to register or re-register, a system extension, you can always drag/drop the _.appex _in the sidebar's bottom 'UTI informations' box, which for _.appex_ will manually regiter its extension.  
  
 
  ## Features
@@ -92,8 +92,8 @@ This helps manage when you want to keep different extensions that andle the same
 ![Screenshot 2025-09-17 at 11 06 21 PM](https://github.com/user-attachments/assets/53b8e743-8c77-464f-8395-230bf8c6a5e7)  
    
  </p>  
-----  
-
+----    
+I made the app initially to debug Quick Look extensions, and I noticed that  we  had a lower level access than standard System Settings gave, allowing, e.g., to disable that 'Warda Synthethizer".     
 
 [^1]: "A Mac is a Mac and it works. In front of a Macbook Retina you feel comfortable[...]" original quote Rocco Gagliardi, Audit in a OSX System https://www.scip.ch/en/?labs.20150108  
 [^2]: A strict workflow: it deactivates duplicates, deregisters all plugins of this operation, zips/backups in temporary directory then puts in the trash the duplicates, move the kept extension in /Applications and finaly re-egister at the n itctivates the extension.    

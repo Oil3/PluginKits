@@ -79,7 +79,7 @@ This app is open-source.
 
 ---
 ## QuickLook    
-### Fix plugins conflictuing version issues:    
+### Fix plugins version conflicts:    
 This specific tool should fix issue when an older version supercedes a new one.  
 In the "Extension Conflicts" tab: the tool automatically keeps the latest version and puts it in /Applications.[^2]  
 You can alternatively manage manually, the important step is deactivating the conflicing versions; the tool goes beyond to ensure it stays like that.   

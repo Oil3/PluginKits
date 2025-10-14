@@ -1,3 +1,7 @@
+<sub>Extension and plugin or plug-in, are used interchangeably and signify **Application and System Extension**. </sub> 
+
+<sup>To refer to a **filename-extension**, file-extension and filename-extension are preferred.</sup>
+
    <p align="center">
   <img src="https://github.com/user-attachments/assets/63790fc2-300b-4a7c-b039-42d37f4e6c1c" height="128">
   <h1 align="center">PluginKits</h1>
@@ -70,7 +74,7 @@ Please open an 'issue' here in GitHub..
 
 ## License
 
-This app is open-source.
+This app is libre/open-source.
 ---
 ![Screenshot 2025-09-18 at 12 15 42 AM](https://github.com/user-attachments/assets/73203dcc-04e8-4c09-b699-066402bf6572)  
 ![Screenshot 2025-09-18 at 12 13 46 AM](https://github.com/user-attachments/assets/f9caa8a7-721f-49d2-b7e8-78fde8c501b8)  

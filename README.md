@@ -1,6 +1,6 @@
-<sub>`Extension`, and `plugin or plug-in`, are used interchangeably and signify an **application or system extension**, _i.e._ a `.appex` bundle. </sub> 
+<sub>Interchangeably, `extension`, and `plug-in` (or `plugin`), are used to signify an **application or system extension**, _i.e._ an `.appex` bundle. </sub> 
 
-<sup>To refer to a **filename-extension**, `file-extension` and `filename-extension` are preferred.</sup>
+<sup>To distinguish a **filename-extension**, `filename-extension` (or `file-extension`) is the preferred term.</sup>
 
    <p align="center">
   <img src="https://github.com/user-attachments/assets/63790fc2-300b-4a7c-b039-42d37f4e6c1c" height="128">

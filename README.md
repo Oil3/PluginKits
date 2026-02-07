@@ -1,4 +1,4 @@
-<sub>Interchangeably, `extension`, and `plug-in` (or `plugin`), are used to signify an **application or system extension**, _i.e._ an `.appex` bundle. </sub> 
+<sub>Interchangeably, `extension`, and `plug-in` (or `plugin`), signify an **application or system extension**, _i.e._ an `.appex` bundle. </sub> 
 
 <sup>To distinguish a **filename-extension**, `filename-extension` (or `file-extension`) is the preferred term.</sup>
 
